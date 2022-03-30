@@ -16,3 +16,5 @@ This is where the Digital Dust DAO comes in.  An immutable Solidity contract tha
 Got a moderator on a power trip?  Let the community rally a vote and get them out.
 
 Digital Dust DAO stands for Power to the People.
+
+Read the [contract](https://github.com/DigitalDustDAO/solidity.contracts/blob/main/contracts/DigitalDustDAO/DigitalDustDAO.sol) or an example of it's use case [here](https://github.com/DigitalDustDAO/solidity.contracts/blob/main/contracts/SocialTokenManager/SocialTokenManager.sol#L25).
